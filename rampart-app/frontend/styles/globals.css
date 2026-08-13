@@ -18,10 +18,10 @@
   --text-tertiary: rgba(255, 255, 255, 0.32);
   --text-dark: #1d1d1f;
 
-  /* Accent */
-  --accent: #0071e3;
-  --accent-dark-bg: #2997ff;
-  --accent-hover: #0077ed;
+  /* Accent — Steel Navy */
+  --accent: #2d5f8a;
+  --accent-dark-bg: #6fa8dc;
+  --accent-hover: #336b9e;
 
   /* Borders */
   --border: rgba(255, 255, 255, 0.12);

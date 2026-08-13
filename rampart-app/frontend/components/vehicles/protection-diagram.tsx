@@ -165,8 +165,8 @@ export default function ProtectionDiagram() {
               width="140"
               height="100"
               rx="4"
-              fill="rgba(41,151,255,0.08)"
-              stroke="rgba(41,151,255,0.25)"
+              fill="rgba(111,168,220,0.08)"
+              stroke="rgba(111,168,220,0.25)"
               strokeWidth="1"
             />
 
@@ -185,7 +185,7 @@ export default function ProtectionDiagram() {
                   r="5%"
                   fill={
                     activeZone === zone.id
-                      ? "rgba(0,113,227,0.3)"
+                      ? "rgba(45,95,138,0.3)"
                       : "rgba(255,255,255,0.04)"
                   }
                   stroke={
@@ -202,7 +202,7 @@ export default function ProtectionDiagram() {
                   textAnchor={zone.textAnchor ?? "middle"}
                   fill={
                     activeZone === zone.id
-                      ? "#2997ff"
+                      ? "#6fa8dc"
                       : "rgba(255,255,255,0.48)"
                   }
                   fontSize="11"

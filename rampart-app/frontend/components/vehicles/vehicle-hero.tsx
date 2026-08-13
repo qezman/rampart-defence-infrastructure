@@ -31,7 +31,7 @@ export default function VehicleHero({ vehicle }: VehicleHeroProps) {
       <div
         className="absolute right-0 top-1/2 -translate-y-1/2 w-1/2 h-[60%] opacity-[0.07] pointer-events-none"
         style={{
-          background: 'linear-gradient(270deg, rgba(41,151,255,0.3), transparent)',
+          background: 'linear-gradient(270deg, rgba(111,168,220,0.3), transparent)',
           borderRadius: '50% 0 0 50%',
         }}
       />

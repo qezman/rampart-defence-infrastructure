@@ -57,7 +57,7 @@ export default function BeforeAfter({ beforeLabel = 'Before', afterLabel = 'Afte
       >
         <div className="text-center">
           <div className="w-32 h-20 mx-auto mb-4 rounded"
-            style={{ background: 'linear-gradient(180deg, #2d3a4a, #1a2535)', boxShadow: '0 4px 20px rgba(0,113,227,0.3)' }} />
+            style={{ background: 'linear-gradient(180deg, #2d3a4a, #1a2535)', boxShadow: '0 4px 20px rgba(45,95,138,0.3)' }} />
           <p className="type-caption text-[var(--accent-dark-bg)]">Restored — fully certified</p>
         </div>
       </div>
